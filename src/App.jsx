@@ -1,6 +1,8 @@
 import "./App.css";
 import { useState } from "react";
 
+// 山崎、春のパン祭り
+
 function App() {
   const [inputText, setInputText] = useState("");
   const [text, setText] = useState([]);
